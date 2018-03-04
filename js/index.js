@@ -1,5 +1,5 @@
 $(document).ready(function(){
     
-    alert('Version 1');
+    alert('BRANCH Addon1');
     
 });
